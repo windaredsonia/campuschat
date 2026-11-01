@@ -1,0 +1,11 @@
+* { box-sizing: border-box; }
+body { font-family: Arial, sans-serif; background: #eef2f7; margin: 0; padding: 20px; }
+.box { max-width: 600px; margin: 0 auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,.1); }
+h1 { color: #2b5797; margin-top: 0; }
+input[type=text], textarea { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 10px; }
+button { background: #2b5797; color: #fff; border: 0; padding: 10px 16px; border-radius: 4px; cursor: pointer; }
+.top { display: flex; justify-content: space-between; align-items: center; }
+.messages { max-height: 400px; overflow-y: auto; border: 1px solid #ddd; border-radius: 4px; padding: 10px; margin-bottom: 10px; }
+.msg { padding: 8px; border-bottom: 1px solid #eee; }
+.msg small { color: #888; }
+.error { color: #c00; }
