@@ -46,7 +46,8 @@ campuschat/
 └── README.md
 ```
 
-## Anggota Tim
+## Anggota Kelompok
 | No | Nama |
 |----|------|
 | 1 | Winda Redsonia |
+| 1 | Rizky Faturazi |
